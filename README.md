@@ -63,11 +63,8 @@ Install:
 - [Visual Studio Code](https://code.visualstudio.com/) (recommended)
 
 ### 1. Clone the repository
-
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ```bash
-git clone https://github.com/YOUR_USERNAME/github-user-search-pro.git
+git clone https://github.com/Hacki-302/github-user-search-pro.git
 ```
 
 ### 2. Enter the project directory
